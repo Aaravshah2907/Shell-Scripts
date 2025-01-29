@@ -10,7 +10,7 @@ cd ~/Desktop/Shell\ Scripts/
 git add .
 
 # Commiting the files and adding a message via clipboard
-git commit -m "$gitcommsg"
+git commit -m "$gitcommsgs"
 
 # Pushing the repo to git
 git push -u origin main
