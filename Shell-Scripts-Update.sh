@@ -4,7 +4,7 @@
 read -p "Add Git Commit Message: " gitcommsgs
 
 # Change directory
-cd ~/Desktop/Shell\ Scripts/
+cd ~/Desktop/Shell-Scripts/
 
 # Adding all files to git
 git add .
