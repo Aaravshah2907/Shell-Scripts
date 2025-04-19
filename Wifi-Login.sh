@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cd ~/Documents/Code/Python-Automation/Wifi-Login/
-python3 wifi-login.py
+cd ~/Documents/Code/BITS-Wifi-Login/
+python3 wifi_login.py
 
